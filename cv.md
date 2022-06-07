@@ -1,16 +1,18 @@
-Petr Muratov
+###### **Some Name**
+![photo](/img/avatar2 "Заголовок изображения")
 
-+79999999999
-mailexample@iguess.com
++ Phone: +79999999999
++ email: mailexample@iguess.com
++ Discord: iPadla#4070
 
-I`m not sure that openly submitting my actual personal info into public resources is carmically appropriate. Hence here is a totally fake part of CV i made with https://thisresumedoesnotexist.com/.
+_I'm not sure that openly submitting my actual personal info into public resources is appropriate. Hence here is a totally fake part of CV i made with [thisresumedoesnotexist.com](https://thisresumedoesnotexist.com/ "")_
 
 
-Summary
+**Summary**
 I am a hard worker who always try to do as had tailduands. I love reached in sales, high-peducation and productic. My application strategies more 
 about my goal from them.
 
-Experience
+**Experience**
 Alliance 2017 - Ongoing Winston–Salem, North Carolina
 
 Alliance is one of the leading performance of the consumer e-commerce company in the United Nations having to the best industrial services company in the world.
@@ -25,7 +27,7 @@ Completed 12 students and 2 events and 10 different support teams.
 
 Increased the company to 500 percent in 7 years
 
-Education
+**Education**
 M.A. Hsg In Marketing, Services And Communication Management
 University Of St. Gallen (Hsg)
 2010 - 2014
@@ -33,11 +35,28 @@ St. Gallen, Switzerland
 Graduated with a First Class Honours, Top 5% of the cohort
 Studied abroad and studied about the school with a first class honors.
 
-My skills (this part is genuine)
+**Code example**
+
+Peak array index KATA from CODEWARS: Given an array of ints, return the index such that the sum of the elements to the right of that index equals the sum of the elements to the left of that index. If there is no such index, return -1. If there is more than one such index, return the left-most index.
+```
+
+function peak(arr) {
+
+  for (let i = 1; i < arr.length - 1; i++) {
+    let leftSum = arr.slice(0, i).reduce((accumulator, currentValue) => accumulator + currentValue);
+    let rightSum = arr.slice(i + 1).reduce((accumulator, currentValue) => accumulator + currentValue);
+    if (leftSum === rightSum) {
+      return i;
+    }
+  }
+  return -1;
+}
+```
+**Skills** _*(this part is genuine)*_
 Sublime text, Visual Studio Code, REST API, Postman
 JS, HTML, CSS, SCSS
-version control systems: GIT, Mercurial
+GIT, Mercurial
 
-Languages(genuine too):
-English: upper-intermediate. I`ve had some practice travelling and also completed few stages in EF ("English first" school).
-Russian: native.
+**Languages** _*(genuine too)*_
++*English*: upper-intermediate. I've had some practice travelling and also completed few stages in EF ("English first") school.
++*Russian*: native.

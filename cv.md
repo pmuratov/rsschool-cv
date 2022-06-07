@@ -1,11 +1,11 @@
 ###### **Some Name**
-![photo](/img/avatar2 "Заголовок изображения")
+![photo](https://upload.wikimedia.org/wikipedia/ru/c/cd/%D0%94%D1%8D%D0%BD%D0%B8%D0%B5%D0%BB_%D0%9A%D0%B8%D0%B7.jpg "Фото")
 
 + Phone: +79999999999
 + email: mailexample@iguess.com
 + Discord: iPadla#4070
 
-_I'm not sure that openly submitting my actual personal info into public resources is appropriate. Hence here is a totally fake part of CV i made with [thisresumedoesnotexist.com](https://thisresumedoesnotexist.com/ "")_
+_I'm not sure that openly submitting my actual personal info into public resources is appropriate. Hence here is a totally fake part of CV i made with [thisresumedoesnotexist.com](https://thisresumedoesnotexist.com)_
 
 
 **Summary**
